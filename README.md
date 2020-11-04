@@ -1,4 +1,4 @@
-<h2 align="center">stream-scheduler</h2>
+sched</h2>
 
 **about** 
 
