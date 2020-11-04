@@ -1,4 +1,4 @@
-sched</h2>
+<h2 align="center">sched</h2>
 
 **about** 
 
